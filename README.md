@@ -20,12 +20,12 @@ This data set contains the following features:
 
 ###Logistic Regression
 
-[LR Results](LR.png)
+[LR Results](/LR.png)
 
 ###Bayesian Network
 
-[BN Results](BN.png)
+[BN Results](/BN.png)
 
 ###One Hot Encoding with Column Transformers
 
-[OHECT Results](OHECT.png)
+[OHECT Results](/OHECT.png)
