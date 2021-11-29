@@ -18,14 +18,14 @@ This data set contains the following features:
 
 ## MODELS USED
 
-###Logistic Regression
+**Logistic Regression**
 
-[LR Results](/LR.png)
+![LR Results](LR.png)
 
-###Bayesian Network
+**Bayesian Network**
 
-[BN Results](/BN.png)
+![BN Results](BN.png)
 
-###One Hot Encoding with Column Transformers
+**One Hot Encoding with Column Transformers**
 
-[OHECT Results](/OHECT.png)
+![OHECT Results](OHECT.png)
